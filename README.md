@@ -1,6 +1,6 @@
-# 😊 FaceEmotionAlert 🚨
+# 😊 MyFaceAlert 🚨
 
-**FaceEmotionAlert** is a sleek, user-friendly tool designed to **monitor your facial expressions** and gently nudge you toward maintaining a positive demeanor during work or study sessions. Leveraging cutting-edge emotion detection powered by **DeepFace** and **OpenCV**, this project transforms your webcam into a **real-time positivity coach**. 🌟
+**MyFaceAlert** is a sleek, user-friendly tool designed to **monitor your facial expressions** and gently nudge you toward maintaining a positive demeanor during work or study sessions. Leveraging cutting-edge emotion detection powered by **DeepFace** and **OpenCV**, this project transforms your webcam into a **real-time positivity coach**. 🌟
 
 ---
 
